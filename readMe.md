@@ -7,3 +7,7 @@ Realtime Chat App using PHP
 1. HTML
 2. CSS
 3. PHP
+
+## Live Preview of the Chat App
+
+https://bala-chat-app.herokuapp.com/
